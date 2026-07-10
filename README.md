@@ -44,6 +44,7 @@ The client reads `ManifestFiles` to figure out which hashed bundles it needs. By
   将全部解压出来的文件覆盖到路径：`C:\Program Files\KongYingMap\Map_Data\package\DefaultPackage`
 * Restart the Kongyingmap client. It should work now😊
   重新打开空荧酒馆客户端，此时应该会直接跳过更新检查并正常进入。
+
 It should look like this,
 ```text
 C:\Program Files\KongYingMap\Map_Data\package\DefaultPackage
