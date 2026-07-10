@@ -45,14 +45,14 @@ The client reads `ManifestFiles` to figure out which hashed bundles it needs. By
 * Restart the Kongyingmap client. It should work now😊
   重新打开空荧酒馆客户端，此时应该会直接跳过更新检查并正常进入。
 It should look like this,
-···
+```text
 C:\Program Files\KongYingMap\Map_Data\package\DefaultPackage
 ├─ CacheFiles 
 ├─ ManifestFiles 
 ├─ .gitattributes 
 ├─ ApplicationFootPrint.bytes 
 └─ README.md (optional)
-···
+```
 ---
 
 This is an unofficial community workaround.This repository will be archived once the official CDN issue is resolved.
