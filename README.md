@@ -1,3 +1,8 @@
+> [!NOTE]
+> **<span style="color: red;">This issue has been resolved. / 相关问题已被修复。</span>**
+---
+
+
 # Kongyingmap Overseas Update Workaround / 空荧酒馆更新修复
 
 A temporary mirror and workaround for the Kongyingmap client getting stuck on the "updating manifest" screen for users outside Mainland China.
